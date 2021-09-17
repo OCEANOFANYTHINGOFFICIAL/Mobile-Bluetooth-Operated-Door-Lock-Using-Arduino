@@ -1,1 +1,1 @@
-# Bluthoot Operated Door Lock System By Arduino
+# Bluthooth Operated Door Lock System By Arduino
